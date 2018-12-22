@@ -1,13 +1,11 @@
 # Homework 5 - Visit the Wikipedia hyperlinks graph!
 
-This is the repository for the fifth homework of ADM course at Sapienza University. <br>
+In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In particular, given extra information about the categories to which an article belongs to, we are curious to rank the articles according to some criteria. 
 
-**Group Members:**
+## Group members:
 * Phu Hien Nguyen  
 * Lohith Machani Sreenivasalu
 * Arya Farkhondeh
-
-In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In particular, given extra information about the categories to which an article belongs to, we are curious to rank the articles according to some criteria. 
 
 <div style="text-align:center"><img src ="https://cryptobriefing.com/wp-content/uploads/2018/04/Wikipedia-and-Request-Network-enable-donors-to-donate-in-cryptocurrency.jpg" /></div>
 
