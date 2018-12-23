@@ -17,4 +17,5 @@ In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In p
 <br>
 ## The repository contains: </H3> 
 
-* `Homework_5.ipynb`: 
+* `Homework_5.ipynb`: The main ipynb file that contains our codes and results
+* `median_list.pkl`: The list of median score corresponding to the input we used
